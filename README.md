@@ -3,14 +3,12 @@
 This application (instagram-clone-en-usa) was built using React Js with the following dependencies (firebase,react,react-dom,react-flip-move,react-instagram-embed,react-scripts) firebase was used for the user registration and post database.This project is a single page application with the intent for the user have the same intention as the official instagram website.The application consists of the main page and login page the user can comment the posts besides that the user can make their own posts just like the official  instagram web page.
 
 
+Main page
+![](https://github.com/CaioRochaCaldas/instagram-clone-en-usa/blob/master/demo%20imgs/1.png)
 
-![]()
+Login page
+![](https://github.com/CaioRochaCaldas/instagram-clone-en-usa/blob/master/demo%20imgs/2.png)
 
-![]()
-
-![]()
-
-![]()
 
 
 
